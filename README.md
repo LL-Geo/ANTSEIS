@@ -7,7 +7,7 @@ For receriver funtion, curst thickness exclude ice thickness.
 
 The main discrepency between AN1-Moho and ANT-Moho is the receiver funtion in TAM. 
 AN1-Moho include S-receiver funtion from Hansen et al, 2009 which show deep Moho.
-ANT-Moho include shalloo Moho with P-receiver functions from Lawrence et al, 2006.
+ANT-Moho include shallow Moho with P-receiver functions from Lawrence et al, 2006.
 
 AN1-Moho
 ANT-Moho
